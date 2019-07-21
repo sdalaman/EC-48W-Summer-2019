@@ -5,4 +5,4 @@ Lecturer : Şaban Dalaman, Msc.
 
 ML with Finance Applications using Python
 
-Student Repo for term projects
+Students Repo for term projects
