@@ -3,6 +3,6 @@ Department of Economics, Boğaziçi University
 
 Lecturer : Şaban Dalaman, Msc.
 
-ML with Finance Applications using Python
+ML applications in Finance and Economics using Python
 
 Students Repo for term projects
